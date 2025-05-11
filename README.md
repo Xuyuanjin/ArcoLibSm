@@ -2,7 +2,7 @@
 
 ## 环境变更可在/src/api/BaseUrl 更改接口地址
     本地接口：let baseUrl = "http://localhost:8081"
-    服务接口：let baseUrl = "https://api.lnpine.lol"
+    服务接口：let baseUrl = "https://api.1024777.xyz"
 ## 安装依赖
 ```
 npm install
